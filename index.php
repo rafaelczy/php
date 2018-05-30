@@ -1,3 +1,4 @@
 <?php
-	echo "<strong>Olá mundo</strong>"
+	echo "<strong>Olá mundo 456</strong>";
+	echo "Olá Udemy!";
 ?>
